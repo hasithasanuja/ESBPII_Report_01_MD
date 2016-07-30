@@ -12,4 +12,11 @@ step 03
 Click the lunch instance which is under create instance
 ![screenshot 43](https://cloud.githubusercontent.com/assets/19299815/17270216/70098358-567b-11e6-9737-bcfc1b61fa30.png)
 
-f
+Step 04 
+Select the microsoft windows server
+![screenshot 44](https://cloud.githubusercontent.com/assets/19299815/17270305/2708635c-567d-11e6-9334-a44e34db4812.png)
+
+Step 05
+Click the given default type and click the review and lunch button 
+![screenshot 45](https://cloud.githubusercontent.com/assets/19299815/17270316/4ea63c22-567d-11e6-991b-07ff623de609.png)
+
