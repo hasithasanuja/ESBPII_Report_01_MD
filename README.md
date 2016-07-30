@@ -130,10 +130,31 @@ Click the “Generate” button
 
 ![9](https://cloud.githubusercontent.com/assets/19299815/17270681/a0f515f8-5686-11e6-83d8-86c8b6e2efb8.jpg)
 
+Click the “Save private key” button. And save the..ppk file.
+
+Then click “save private key” button and it will convert it in to .pem file.
+
+![10](https://cloud.githubusercontent.com/assets/19299815/17270775/b77723dc-5688-11e6-84fb-4e26267d4df1.png)
+Step 07 
+Open the puTTY Configuration
+And do the following 
 
 
+![11](https://cloud.githubusercontent.com/assets/19299815/17270779/c9dbdf4a-5688-11e6-94a8-eca6bbb425cb.png)
+
+![12](https://cloud.githubusercontent.com/assets/19299815/17270780/c9e264b4-5688-11e6-862e-65be0f2ee71e.png)
+
+Click the browse button and load the linux.pptk file.
+
+![13](https://cloud.githubusercontent.com/assets/19299815/17270798/0b78821e-5689-11e6-9140-38aa68defa06.png)
 
 
+![14](https://cloud.githubusercontent.com/assets/19299815/17270803/28d5a526-5689-11e6-8f2f-a75a80e8d960.png)
+Step 08
+Type the login details 
+![15](https://cloud.githubusercontent.com/assets/19299815/17270813/4fecc96e-5689-11e6-8a0b-496db08930f5.png)
+![16](https://cloud.githubusercontent.com/assets/19299815/17270814/4ff3c854-5689-11e6-8230-cd3dc9247fbf.jpg)
+ 
 
 
 
