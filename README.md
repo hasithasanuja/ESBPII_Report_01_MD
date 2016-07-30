@@ -82,4 +82,143 @@ Click “connect” button
 ![untitled](https://cloud.githubusercontent.com/assets/19299815/17270562/ff916dfe-5682-11e6-918a-1d7cd1188d09.png)
 
 
+#02 Creating of linux instance using AWS Account
+
+
+Step 01
+I.	User has to loing to the AWS account.
+II.	User has to click the EC2 link .
+III.	User has to click the lunch instance button.
+
+Step 02
+Choose the “Amazon Linux 2016…”
+
+![1](https://cloud.githubusercontent.com/assets/19299815/17270587/65cff054-5683-11e6-97db-7ccb078342f9.jpg)
+
+Step 03
+Select the default row which is given in the table
+
+![2](https://cloud.githubusercontent.com/assets/19299815/17270606/e0360838-5683-11e6-994f-7e2130814b17.jpg)
+
+
+
+![2](https://cloud.githubusercontent.com/assets/19299815/17270606/e0360838-5683-11e6-994f-7e2130814b17.jpg)
+![4](https://cloud.githubusercontent.com/assets/19299815/17270618/5866deae-5684-11e6-815f-f596467e6cae.jpg)
+
+
+
+
+Step 04
+Click the lunch button. 
+![5](https://cloud.githubusercontent.com/assets/19299815/17270632/b746a2ec-5684-11e6-9780-7f37d67a4654.jpg)
+
+Step 05
+Download the key pair and click “lunch instance button”
+![6](https://cloud.githubusercontent.com/assets/19299815/17270633/c5f1d780-5684-11e6-9686-8bf513ae491d.jpg)
+
+![7](https://cloud.githubusercontent.com/assets/19299815/17270635/e6a0d990-5684-11e6-9261-6b80939b7967.png)
+
+![8](https://cloud.githubusercontent.com/assets/19299815/17270636/e6a79bae-5684-11e6-85db-f6f896f165b8.png)
+
+
+Step 06
+Download “putty” and “puttygen” software
+Step 07 
+Follow the steps bellow to configure the putty software
+Open the puTTy Key Genetator software.
+Click the “Generate” button
+
+![9](https://cloud.githubusercontent.com/assets/19299815/17270681/a0f515f8-5686-11e6-83d8-86c8b6e2efb8.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
