@@ -155,20 +155,52 @@ Type the login details
 ![15](https://cloud.githubusercontent.com/assets/19299815/17270813/4fecc96e-5689-11e6-8a0b-496db08930f5.png)
 ![16](https://cloud.githubusercontent.com/assets/19299815/17270814/4ff3c854-5689-11e6-8230-cd3dc9247fbf.jpg)
  
+ 
+ 
+#03 Create DB instance using RDS.
+Step 01
+Click on RDS button
+
+![screenshot 124](https://cloud.githubusercontent.com/assets/19299815/17270963/a16bdf52-568c-11e6-84c1-d528ab42776a.png)
+
+Step 02
+Select MySql and click the select button
+![screenshot 125](https://cloud.githubusercontent.com/assets/19299815/17270966/b89e0e0c-568c-11e6-9502-891d86377e8b.png)
+
+
+![screenshot 127](https://cloud.githubusercontent.com/assets/19299815/17270971/cccbe64c-568c-11e6-877d-0e98befed360.png)
+
+Step 03
+Configure the settings given below 
+![screenshot 128](https://cloud.githubusercontent.com/assets/19299815/17270975/f38aebd4-568c-11e6-9eae-6b3f4a910c69.png)
+![screenshot 129](https://cloud.githubusercontent.com/assets/19299815/17270982/fd26a7e6-568c-11e6-970c-67cc48dac6e3.png)
+
+Step 04
+Configure the settings given below 
+![screenshot 130](https://cloud.githubusercontent.com/assets/19299815/17271002/5be52f96-568d-11e6-8727-cfa49e853874.png)
 
 
 
+Click “Launch DB Instance” button
 
 
+![screenshot 131](https://cloud.githubusercontent.com/assets/19299815/17271003/5be61c08-568d-11e6-9c3e-a04d123569d6.png)
+
+User can view the instance by clicking the “View Your DB instance” button
+![screenshot 132](https://cloud.githubusercontent.com/assets/19299815/17271018/cb3591ce-568d-11e6-94d0-b17be1959c32.png)
+
+Step 05
+User has to wait for few minutes. 
 
 
+![screenshot 133](https://cloud.githubusercontent.com/assets/19299815/17271019/ee472074-568d-11e6-8684-e9fb5980e0ee.png)
 
+![screenshot 134](https://cloud.githubusercontent.com/assets/19299815/17271021/07ae1d38-568e-11e6-8314-63a41b248d93.png)
+![screenshot 135](https://cloud.githubusercontent.com/assets/19299815/17271022/07b3e5a6-568e-11e6-982a-06e14ee3442e.png)
 
+Finally user can login to the DB using the given user name and the password
 
-
-
-
-
+![screenshot 136](https://cloud.githubusercontent.com/assets/19299815/17271027/1ac60192-568e-11e6-934c-91c9e494b8da.png)
 
 
 
