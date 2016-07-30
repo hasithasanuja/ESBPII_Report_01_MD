@@ -12,4 +12,4 @@ step 03
 Click the lunch instance which is under create instance
 ![screenshot 43](https://cloud.githubusercontent.com/assets/19299815/17270216/70098358-567b-11e6-9737-bcfc1b61fa30.png)
 
-
+f
