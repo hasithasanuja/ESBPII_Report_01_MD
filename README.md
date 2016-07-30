@@ -78,6 +78,8 @@ Click “connect” button
 ![screenshot 54](https://cloud.githubusercontent.com/assets/19299815/17270544/86157b96-5682-11e6-8259-68510c82d373.png)
 
 
+![screenshot 55](https://cloud.githubusercontent.com/assets/19299815/17270564/04c99df0-5683-11e6-87e5-b8fed7be5787.png)
+![untitled](https://cloud.githubusercontent.com/assets/19299815/17270562/ff916dfe-5682-11e6-918a-1d7cd1188d09.png)
 
 
 
